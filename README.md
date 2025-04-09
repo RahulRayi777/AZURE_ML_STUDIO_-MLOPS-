@@ -43,7 +43,7 @@ By completing this project, I gained practical experience in:
 
 ---
 
- 🔍 Key Features of the Project
+ # 🔍 Key Features of the Project
 ✔️ Exploratory Data Analysis (EDA) with visualization
 
 ✔️ Feature engineering and transformation
@@ -58,7 +58,8 @@ By completing this project, I gained practical experience in:
 
 ✔️ Automated retraining pipeline setup
 
-💡 Why This Project?
+
+## 💡 Why This Project?
 This project helped me solidify my understanding of:
 
 Real-world MLOps best practices
@@ -69,7 +70,9 @@ End-to-end machine learning project architecture in the cloud
 
 How to take a model from notebook to production-grade deployment
 
-🤖 Automated ML (AutoML) in Azure ML Studio
+
+
+## 🤖 Automated ML (AutoML) in Azure ML Studio
 As part of this project, I leveraged Azure ML Studio’s Automated ML (AutoML) capabilities to streamline model development and selection.
 
 What I Did with AutoML:
@@ -85,7 +88,7 @@ Selected the best-performing model and promoted it to production.
 
 Registered the model and used it in downstream deployment and monitoring pipelines.
 
-Why AutoML?
+### Why AutoML?
 Using Azure’s AutoML helped:
 
 Save time by automating model training and evaluation
